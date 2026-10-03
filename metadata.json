@@ -1,0 +1,6 @@
+{
+  "name": "Cipher Explorer",
+  "description": "Learn how classical ciphers transform messages. An educational classical cipher exploration tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
