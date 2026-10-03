@@ -1,4 +1,4 @@
-◇ Cipher Explorer
+◇ Cipher Explorer:
 Cipher Explorer is a web-based educational platform for understanding and experimenting with classical cipher techniques. It provides an interactive environment for encoding, decoding, and visualizing how common encryption methods transform text.
 The project is designed for learners, developers, and cybersecurity enthusiasts who want to explore the foundations of cryptography through practical examples and hands-on interaction.
 
