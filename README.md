@@ -98,4 +98,4 @@ This project is licensed under the MIT License.
 - rayyanm52
 
 ● Repository
-- GitHub: https://github.com/rayyanm52/CipherExplorer
+- GitHub: https://github.com/rayyanm52/Cipher_Explorer
